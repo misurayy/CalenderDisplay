@@ -1,7 +1,6 @@
 # CalenderDisplay
 
 This project is a simple Java program that takes a **month and a year** as input and prints the corresponding **calendar** for that month in a clean, formatted layout.
-
 The program mimics the appearance of a traditional wall calendar, starting from Sunday and ending on Saturday. It correctly aligns the days according to the weekday on which the month begins and handles **leap years** for February.
 
 
